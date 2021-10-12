@@ -638,7 +638,7 @@ vendor/lib/libsmwrapper.so
 system_ext/lib/libmmosal.so
 system_ext/lib/libmmparser_lite.so
 system_ext/lib64/libmmosal.so
-vendor/etc/seccomp_policy/codec2.vendor.base.policy
+vendor/etc/seccomp_policy/codec2.vendor.base.policy|fbf54a1d121e08048d17c57ab1c471c388069fd3
 vendor/etc/system_properties.xml
 vendor/lib64/libmmosal.so
 
