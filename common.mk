@@ -423,7 +423,7 @@ PRODUCT_COPY_FILES += \
 # tri-state-key
 PRODUCT_PACKAGES += \
     KeyHandler \
-    tri-state-key_daemon.vendor
+    tri-state-key-calibrate
 
 # Trust HAL
 PRODUCT_PACKAGES += \
